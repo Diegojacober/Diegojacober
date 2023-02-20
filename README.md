@@ -1,10 +1,10 @@
 <div align="center">
         <h1>Olá meu nome é Diego Jacober</h1>
         <a href="https://github.com/Diegojacober"></a>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegojacober&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegojacober&layout=compact&langs_count=7&theme=github_dark"/>
+        <img height="170em" src="https://github-readme-stats.vercel.app/api?username=diegojacober&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+        <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegojacober&layout=compact&langs_count=7&theme=github_dark"/>
     </div>
-    <div align="center" style="display: inline_block"><br>
+<!--     <div align="center" style="display: inline_block"><br>
         <img align="center" alt="Diego-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
         <img align="center" alt="Diego-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
         <img align="center" alt="Diego-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
@@ -12,9 +12,9 @@
         <img align="center" alt="Diego-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
         <img align="center" alt="Diego-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
         <img align="center" alt="Diego-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
-    </div>
-
-
+    </div> -->
+    
+ ![Snake animation](https://github.com/Diegojacober/Diegojacober/blob/output/github-contribution-grid-snake.svg)
     
     
     <div align="end">
