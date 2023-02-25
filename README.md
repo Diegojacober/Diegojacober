@@ -4,7 +4,7 @@
         <img height="170em" src="https://github-readme-stats.vercel.app/api?username=diegojacober&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
         <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegojacober&layout=compact&langs_count=7&theme=github_dark"/>
     </div>
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=diegojacober&theme=radical&hide_border=false)<br/>
+<!--     ![](https://github-readme-streak-stats.herokuapp.com/?user=diegojacober&theme=radical&hide_border=false)<br/> -->
     
 <!--    <div align="center" style="display: inline_block"><br>
         <img align="center" alt="Diego-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
