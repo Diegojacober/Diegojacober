@@ -2,8 +2,8 @@
         <h1>Olá meu nome é Diego Jacober</h1>
         <a href="https://github.com/Diegojacober"></a>
 <!--         <img height="170em" src="https://github-readme-stats.vercel.app/api?username=diegojacober&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/> -->
-<!--         <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=diegojacober&theme=radical&hide_border=false&count_private=true"/> -->
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=diegojacober&theme=radical&hide_border=false&count_private=true">
+        <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=diegojacober&theme=radical&hide_border=true&count_private=true"/>
+ 
         <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegojacober&layout=compact&langs_count=7&theme=radical"/>
 <!--         <img height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegojacober&langs_count=8&theme=radical"/> -->
         
